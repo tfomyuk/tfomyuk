@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=tfomyuk&style=flat-square&color=black" alt=""/>
+
   <a href="https://www.linkedin.com/in/tania-fomiuk-b1747218b">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
