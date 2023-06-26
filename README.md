@@ -22,7 +22,7 @@
 ### :woman_technologist: About Me :
 - 🔥: I’m Junior Full Stack Developer 
 
-- ✨: Further studying UX/UI: www.uxuiopen.com, Java: https://learn.epam.com
+- ✨: Further studying UX/UI: www.uxuiopen.com, coding www.freecodecamp.org
   
 - 💡: Currently working on pet-project ecommerce shop at: https://teamchallenge.io
 
